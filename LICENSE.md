@@ -1,4 +1,4 @@
-# 
+# Meilleur vLLM scripts. Avec intégration de base de données vectorielle et système de plugins — optimisé pour des performances et une efficacité maximales.
 
 
 
